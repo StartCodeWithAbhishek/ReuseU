@@ -1,10 +1,4 @@
-# MERN E-COMMERCE TUTORIAL
-
 Hi! My name is **Abhishek vishwakarma**, I have created this MERN Stack application
-
-# Prerequisite
-
-1.  Must have basic knowledge of **Node**, **React**, **Express**, **MongoDB** . _I have made tutorial on each technology on YouTube , make sure to check it out_. **Links are 
 # Install Dependencies
 
 **For Backend** - `npm i`
